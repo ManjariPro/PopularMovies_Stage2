@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="pop">Pop Movies</string>
+    <string name="detail">MovieDetail</string>
+    <string name="review">Reviews</string>
+    <string name="top">TopRated Movies</string>
+    <string name="trailer">Trailers:</string>
+    <string name="trailer1">Trailer</string>
+    <string name="trailer2">Trailer 2</string>
+    <string name="favorite">MARK AS FAVORITE</string>
+    <string name="menu_pop">MostPopular</string>
+    <string name="menu_top">HighestRated</string>
+    <string name="menu_fav">favorite Movies</string>
+
+</resources>
